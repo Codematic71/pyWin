@@ -1,4 +1,3 @@
-# pyWin
 # pcw.py – Minimal Panel-based Curses Window Manager
 
 A lightweight, safe, panel-based UI framework using `curses` and `curses.panel`.  
